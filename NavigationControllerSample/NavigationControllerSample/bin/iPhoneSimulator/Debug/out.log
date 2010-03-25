@@ -1,0 +1,3 @@
+Rect: {X=110,Y=180,Width=100,Height=100}
+Frame: {X=0,Y=20,Width=320,Height=460}
+Error connecting stdout and stderr (127.0.0.1:10001)
