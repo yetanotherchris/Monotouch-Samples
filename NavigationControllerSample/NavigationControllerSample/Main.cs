@@ -1,4 +1,3 @@
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,7 +10,7 @@ namespace NavigationControllerSample
 	{
 		static void Main (string[] args)
 		{
-			UIApplication.Main (args);
+			UIApplication.Main (args); // testing
 		}
 	}
 
